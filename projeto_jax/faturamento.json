@@ -1,0 +1,22 @@
+[
+  {
+    "id": 101,
+    "nome": "Carlos",
+    "valor": 157.5
+  },
+  {
+    "id": 102,
+    "nome": "Marta",
+    "valor": 840
+  },
+  {
+    "id": 103,
+    "nome": "Roberto",
+    "valor": 126
+  },
+  {
+    "id": 104,
+    "nome": "Ana",
+    "valor": 1260
+  }
+]

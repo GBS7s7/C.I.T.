@@ -1,0 +1,30 @@
+[
+  {
+    "id": 10,
+    "nome": "Teclado Mecânico",
+    "categoria": "Periféricos",
+    "preco": 450,
+    "estoque": 5
+  },
+  {
+    "id": 21,
+    "nome": "Monitor 4K",
+    "categoria": "Monitores",
+    "preco": 2100,
+    "estoque": 2
+  },
+  {
+    "id": 35,
+    "nome": "Mouse Gamer",
+    "categoria": "Periféricos",
+    "preco": 250,
+    "estoque": 0
+  },
+  {
+    "id": 42,
+    "nome": "Cabo HDMI",
+    "categoria": "Acessórios",
+    "preco": 50,
+    "estoque": 20
+  }
+]

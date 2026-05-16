@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "modelo": "Civic",
+    "marca": "Honda",
+    "preco": 120000,
+    "categoria": "Sedan",
+    "vendido": false
+  },
+  {
+    "id": 2,
+    "modelo": "Hilux",
+    "marca": "Toyota",
+    "preco": 250000,
+    "categoria": "Pickup",
+    "vendido": false
+  },
+  {
+    "id": 3,
+    "modelo": "Onix",
+    "marca": "Chevrolet",
+    "preco": 80000,
+    "categoria": "Hatch",
+    "vendido": true
+  },
+  {
+    "id": 4,
+    "modelo": "Corolla",
+    "marca": "Toyota",
+    "preco": 140000,
+    "categoria": "Sedan",
+    "vendido": false
+  },
+  {
+    "id": 5,
+    "modelo": "Uno",
+    "marca": "Fiat",
+    "preco": 30000,
+    "categoria": "Hatch",
+    "vendido": true
+  },
+  {
+    "id": 6,
+    "modelo": "Golf GTI",
+    "marca": "Volkswagen",
+    "preco": 190000,
+    "categoria": "Hatch",
+    "vendido": false
+  },
+  {
+    "id": 7,
+    "modelo": "Mustang Mach 1",
+    "marca": "Ford",
+    "preco": 550000,
+    "categoria": "Esportivo",
+    "vendido": false
+  },
+  {
+    "id": 8,
+    "modelo": "Compass",
+    "marca": "Jeep",
+    "preco": 180000,
+    "categoria": "SUV",
+    "vendido": false
+  },
+  {
+    "id": 9,
+    "modelo": "Model 3",
+    "marca": "Tesla",
+    "preco": 350000,
+    "categoria": "Elétrico",
+    "vendido": false
+  },
+  {
+    "id": 10,
+    "modelo": "911 Carrera",
+    "marca": "Porsche",
+    "preco": 850000,
+    "categoria": "Esportivo",
+    "vendido": false
+  },
+  {
+    "id": 11,
+    "modelo": "HB20",
+    "marca": "Hyundai",
+    "preco": 85000,
+    "categoria": "Hatch",
+    "vendido": false
+  },
+  {
+    "id": 12,
+    "modelo": "Range Rover Evoque",
+    "marca": "Land Rover",
+    "preco": 420000,
+    "categoria": "SUV",
+    "vendido": false
+  },
+  {
+    "id": 13,
+    "modelo": "M3 Competition",
+    "marca": "BMW",
+    "preco": 780000,
+    "categoria": "Sedan Esportivo",
+    "vendido": false
+  },
+  {
+    "id": 14,
+    "modelo": "A3 Sedan",
+    "marca": "Audi",
+    "preco": 260000,
+    "categoria": "Sedan",
+    "vendido": true
+  },
+  {
+    "id": 15,
+    "modelo": "Kwid",
+    "marca": "Renault",
+    "preco": 65000,
+    "categoria": "Hatch",
+    "vendido": false
+  }
+]

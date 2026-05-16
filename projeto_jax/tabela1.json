@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "peca": "Pneu de Corrida",
+    "preco": 350,
+    "emEstoque": true
+  },
+  {
+    "id": 2,
+    "peca": "Óleo de motor",
+    "preco": 45,
+    "emEstoque": false
+  },
+  {
+    "id": 3,
+    "peca": "Pastilha de freio",
+    "preco": 120,
+    "emEstoque": true
+  },
+  {
+    "id": 4,
+    "peca": "Vela de Ignição",
+    "preco": 15,
+    "emEstoque": true
+  },
+  {
+    "id": 5,
+    "peca": "Banco de Tras",
+    "preco": 250,
+    "emEstoque": false
+  }
+]

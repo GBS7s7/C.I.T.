@@ -1,0 +1,17 @@
+[
+  {
+    "cliente": "Carlos",
+    "desc": "Troca de Óleo",
+    "valor": 157.5
+  },
+  {
+    "cliente": "Roberto",
+    "desc": "Alinhamento",
+    "valor": 126
+  },
+  {
+    "cliente": "Ana",
+    "desc": "Troca de Pneus",
+    "valor": 1260
+  }
+]
